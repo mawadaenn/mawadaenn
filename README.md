@@ -1,4 +1,4 @@
-# ME
+# mawadaenn
 gitHub profile
 # 💫 About Me:
 ### 👋 À propos de moi<br><br>🎓 Ingénieure d’État en Informatique et Réseaux, spécialisée en MIAGE.<br>📊 **Data Analyst / Business Intelligence**, passionnée par l’analyse, la visualisation et la valorisation des données.<br>🐍 J’utilise **Python, SQL, Power BI, Tableau et Excel** pour analyser les données et construire des tableaux de bord décisionnels.<br>🔄 Je m’intéresse également à la **Data Engineering, aux processus ETL et aux solutions Data & IA**.<br>🤖 Je développe actuellement mes compétences autour des **agents IA et de l’automatisation des projets Data**.<br>🚀 À la recherche d’une opportunité **Junior Data Analyst / BI** pour mettre mes compétences en pratique et continuer à progresser.<br>
